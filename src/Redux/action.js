@@ -1,0 +1,10 @@
+export const INCREMENT = 'INCREMENT';
+export const DECREMENT = 'DECREMENT';
+export const RESET = 'RESET';
+export const CAKEINCREMENT = 'CAKEINCREMENT';
+export const CAKEDECREMENT = 'CAKEDECREMENT';
+export const CAKERESET = 'CAKERESET';
+export const ADDRECORD= 'ADDRECORD'
+export const GETRECORD= 'GETRECORD'
+export const DELETERECORD= 'DELETERECORD'
+export const CARTRECORD ='CARTRECORD'
